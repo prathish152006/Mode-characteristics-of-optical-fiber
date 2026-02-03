@@ -1,9 +1,7 @@
 # Mode-characteristics-of-optical-fiber
 # AIM
 To study the mode characteristics of fiber optic cable and observe the lower order Linearly Polarized (LP) modes.
-
 ---
-
 # Equipments Required
 1. LASER Source (633 nm – 1mW)  
 2. Source to Fiber Coupler  
@@ -12,7 +10,6 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 5. Opaque Screen  
 
 ---
-
 # Theory
 The central spot carries 95% of the intensity for laser beams with Gaussian profile.  
 
@@ -78,12 +75,11 @@ V = \frac{2 \pi \cdot A \cdot NA}{\lambda} = 4.91
 \[
 \frac{V^2}{2} = \frac{(4.91)^2}{2} \approx 12.05
 \]
-
 ---
+# Tabulation
 
-### Tabulation
 <img width="1600" height="723" alt="image" src="https://github.com/user-attachments/assets/2d7e6fcc-86aa-4034-a645-1413f2553183" />
 <img width="882" height="1304" alt="image" src="https://github.com/user-attachments/assets/64ce73c8-e8f8-4235-b4d3-ba6480a33a93" />
 
-###  Result
+# Result
 The fiber supports **4 Linearly Polarized (LP) modes** at the given parameters.
